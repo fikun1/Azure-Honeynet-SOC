@@ -29,8 +29,8 @@ The project helped me strengthen my skills in Azure security monitoring, SIEM an
 ---
 
 ### ⚙️ Methodology
-![Azure Honeynet WriteUp Pg1](./images/architecture/page1.png)
-![Azure Honeynet WriteUp Pg1](./images/architecture/page2.png)
+![Azure Honeynet WriteUp Pg1](./images/architecture/Page1.png)
+![Azure Honeynet WriteUp Pg1](./images/architecture/Page2.png)
 
 #### 1. Environment Setup
 - Deployed a Windows Virtual Machine inside an Azure Virtual Network.  
@@ -68,5 +68,6 @@ The project helped me strengthen my skills in Azure security monitoring, SIEM an
 
 
 ---
+
 
 
