@@ -71,6 +71,19 @@ The project helped me strengthen my skills in Azure security monitoring, SIEM an
 
 
 ---
+### 🌍 Top Attack Source Locations (24-Hour Observation)
+
+| Location | Country | Attempts |
+|-----------|----------|----------:|
+| Perth | Australia | 9,270 |
+| Gwanak-gu | South Korea | 6,810 |
+| Čakovec | Croatia | 6,630 |
+| Sydney | Australia | 6,120 |
+| Gwangmyeong | South Korea | 5,560 |
+| — | France | 1,060 |
+| Maarn | Netherlands | 227 |
+| Vilobi del Penedès | Spain | 193 |
+
 
 
 
