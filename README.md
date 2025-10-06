@@ -61,13 +61,17 @@ The project helped me strengthen my skills in Azure security monitoring, SIEM an
 
 ## 📊 Observed Metrics (24-hour window)
 | Total Windows Security Events - 21,182 
+
 | Failed RDP Authentication Attempts (EventID 4625) - 4,877 
+
 | Sentinel Incidents (auto-generated) - 343 
+
 | Unique Source IPs - 150+ 
 
 
 
 ---
+
 
 
 
